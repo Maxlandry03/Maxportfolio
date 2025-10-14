@@ -12,7 +12,7 @@
                              :root {
                                 --bg-color: #1f242d;
                                 --second-bg-color: #323946;
-                                --main-color: #D9594C;
+                                --main-color: #6A9B7C;
                                 --white-color: #ffffff;
                                 --disabled-color: #fff3;
                             }
@@ -874,4 +874,5 @@
                                     font-size: 3.5rem;
                                 }
                             }
+
 
